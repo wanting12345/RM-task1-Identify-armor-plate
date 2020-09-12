@@ -1,0 +1,3 @@
+/home/yevette/文档/git/RM-task1-Identify-armor-plate/identify/CMakeFiles/rebuild_cache.dir
+/home/yevette/文档/git/RM-task1-Identify-armor-plate/identify/CMakeFiles/test.dir
+/home/yevette/文档/git/RM-task1-Identify-armor-plate/identify/CMakeFiles/edit_cache.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yevette/文档/git/RM-task1-Identify-armor-plate/identify/identify.cpp
+iostream
+-
+opencv4/opencv2/opencv.hpp
+-
+opencv4/opencv2/highgui.hpp
+-
+
