@@ -13,4 +13,10 @@ opencv4/opencv2/opencv.hpp
 -
 opencv4/opencv2/highgui.hpp
 -
+stdio.h
+-
+time.h
+-
+cmath
+-
 
